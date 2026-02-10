@@ -37,7 +37,7 @@ npm test
 ## Test Suite
 
 ```
-17 suites | 865 tests | 100% pass rate
+15 suites | 764 tests | 100% pass rate
 ```
 
 Run the full enterprise security assessment:
